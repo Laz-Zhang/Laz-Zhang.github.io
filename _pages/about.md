@@ -9,9 +9,9 @@ redirect_from:
 
 I'm a fouth year undergraduate student from [School of Mathematics](https://sxxy.yzu.edu.cn/), [YZU](https://www.yzu.edu.cn/).
 
-My research interest includes *Computational Mathematics*, *Numerical Methods for PDEs*, and *Deep Learning*.
+My research interest includes **Computational Mathematics**, **Numerical Methods for PDEs**, and **Deep Learning**.
 
-%  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<!-- %  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 %  A data-driven personal website %
 %  ======
@@ -55,4 +55,4 @@ My research interest includes *Computational Mathematics*, *Numerical Methods fo
 
 % For more info
 % ------
-% More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+% More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.-->
